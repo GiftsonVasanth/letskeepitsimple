@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/letsmakeitsimple/static/css/main.cf589ec5.css",
+    "main.js": "/letsmakeitsimple/static/js/main.bca998e6.js",
+    "static/js/787.284a3ba0.chunk.js": "/letsmakeitsimple/static/js/787.284a3ba0.chunk.js",
+    "index.html": "/letsmakeitsimple/index.html",
+    "main.cf589ec5.css.map": "/letsmakeitsimple/static/css/main.cf589ec5.css.map",
+    "main.bca998e6.js.map": "/letsmakeitsimple/static/js/main.bca998e6.js.map",
+    "787.284a3ba0.chunk.js.map": "/letsmakeitsimple/static/js/787.284a3ba0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf589ec5.css",
+    "static/js/main.bca998e6.js"
+  ]
+}
